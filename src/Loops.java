@@ -3,6 +3,8 @@ public class Loops {
 	
 	public static void main(String[] args) {
 		
+		//this is a new comment
+		
 		int numberOfItems = 29;
 		
 		for (int i = 0; i < numberOfItems; i++) {
